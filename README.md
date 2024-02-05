@@ -72,7 +72,7 @@ def greet(name):
     print(f"Hello, {name}!")
 
 # Example Usage
-greet("YUVASHREE")
+
 
 ```
 
