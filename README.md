@@ -47,7 +47,8 @@ I am currently a student pursuing my M.Tech Integrated degree in Computer Scienc
 - **Contributor Guidelines:** For open-source projects, GitHub provides a platform for contributors to fork repositories, make changes, and submit pull requests. Maintainers can review contributions, merge changes, and foster a collaborative community.
 
 ## Integration and Extensibility
-tools, code analysis tools, project management tools, and more.
+
+- **Third-party Integrations:** GitHub integrates with a wide range of third-party tools and services, enhancing its capabilities. This includes integrations with CI/CD tools, code analysis tools, project management tools, and more.
 
 - **GitHub Marketplace:** Developers can explore and install various apps and tools from the GitHub Marketplace to extend GitHub's functionality and integrate with other services seamlessly.
 
